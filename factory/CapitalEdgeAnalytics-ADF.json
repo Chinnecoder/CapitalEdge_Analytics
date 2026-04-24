@@ -1,0 +1,15 @@
+{
+	"name": "CapitalEdgeAnalytics-ADF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "244038b9-08e9-43e0-b313-2aac02f9e715",
+		"tenantId": "e6b2057e-2bd9-4323-974b-184f628f6b22"
+	}
+}
